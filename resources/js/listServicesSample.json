@@ -1,0 +1,578 @@
+[
+    {
+        "id": 1,
+        "categoryId": 1,
+        "name": "Tiệm ảnh nàng thơ",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/6c/0d/33/6c0d336bd69e5642bb2f014ec20bc4d9.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con chim",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/e3/6a/4e/e36a4e06f9293934f35cce2bf7d7e585.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/0b/5c/91/0b5c91d3e3c0fc913b89ec6e9ad0011b.jpg",
+            "https://i.pinimg.com/564x/ea/c1/8b/eac18b71ff34191c5699216e6560a60a.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con mèo",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/d3/fc/82/d3fc82a4a051aa1e9c007bdf055801f4.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con chuột",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/ed/73/d1/ed73d19c248a0c9d9b7e0695767680d4.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con chó",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/53/3f/5b/533f5be59e735b277bd946045af6b212.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con cá",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/c8/f5/a9/c8f5a9ee01e97a3e7f62093be92a45aa.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con sư tử",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/bb/53/78/bb53786231caea3031687d6c96d37801.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con gà",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/7b/38/bb/7b38bb59f304c558f52458820120b6d8.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "categoryId": 1,
+        "name": "Tiệm ảnh con vịt",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background":  "https://i.pinimg.com/564x/48/36/c6/4836c6bb1290f0cc51fdc99d92dfa573.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "categoryId": 2,
+        "name": "Tiệm ảnh nàng thơ",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/35/fc/05/35fc052ec54cfa0541d8c0fc4491d96a.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con chim",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/50/c8/da/50c8da7435a0e1834e80ab73bf36a86b.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con mèo",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/60/81/8d/60818d82919f1fd682061bb434a1221e.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con chuột",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/20/15/f1/2015f1086d2324d372759c1e2c59929a.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con chó",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/2e/b7/24/2eb724c6b755dc3bd1f6d4c16f257c48.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con cá",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/4a/01/b7/4a01b7f1bf208343fc5b9cb32ee879b1.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con sư tử",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/fe/62/f0/fe62f037c31a81f4d81da71e69a99736.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con gà",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/10/d4/a1/10d4a172920e48b35f2ab35f9d7cd3f9.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "categoryId": 2,
+        "name": "Tiệm ảnh con vịt",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/7b/12/ec/7b12ec625f9cb268ca03347a37ff8a23.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "categoryId": 3,
+        "name": "Tiệm ảnh nàng thơ",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/6a/66/95/6a6695b059f5e0fac81dc91b1ebd8295.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con chim",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/74/2d/4a/742d4ad4c1f98f109975f2632bf20391.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con mèo",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/e5/d5/67/e5d567cb3e8941055ff0b7ae15ea0927.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con chuột",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/4a/c4/36/4ac436adab1d1dc8f0e61e5a33524b7a.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con chó",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/91/15/8b/91158b36011cb87373f8c824d4ae9792.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con cá",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/a5/89/6b/a5896b37fa372ebefe611348ef2b0da2.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con sư tử",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/74/3d/de/743dde2fd909494c27c970364c889561.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con gà",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/7a/4a/61/7a4a61463bef4c052f18fbd896325167.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "categoryId": 3,
+        "name": "Tiệm ảnh con vịt",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/b1/9c/d4/b19cd4d15f6e622ac9dde5f3d21fb740.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "categoryId": 4,
+        "name": "Tiệm ảnh nàng thơ",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/6d/a0/be/6da0bedd45a827ee0dea1eed48f9ced0.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con chim",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/736x/9e/97/45/9e9745ef5ab16efebcaed9b0f814d5ea.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con mèo",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/70/77/a2/7077a2250587ad06656787eba06403c1.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 31,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con chuột",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/58/dc/9b/58dc9ba28970e3fdc45de00b1ec44bc7.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 32,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con chó",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/94/a6/66/94a666d648af0de5adb025828cd998a0.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 33,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con cá",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/4f/12/14/4f1214d658472aec8f127b2290336447.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 34,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con sư tử",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/96/61/63/9661637a37a1b7ba40c68eae57a25f7e.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con gà",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/736x/5a/ec/a5/5aeca5132b16f5ed79df5b9b2830efe3.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    },
+    {
+        "id": 36,
+        "categoryId": 4,
+        "name": "Tiệm ảnh con vịt",
+        "address": "Hà Nội, quận Tây Hồ",
+        "rating": 4.9,
+        "comments": 21,
+        "price": 500000,
+        "discountPrice": 499999,
+        "logo": "https://i.pinimg.com/564x/37/03/cf/3703cf6f8e9b5278dba58782e0d1889d.jpg",
+        "background": "https://i.pinimg.com/564x/5e/1f/f9/5e1ff9099ffbacf92fc78cccf54e7f8a.jpg",
+        "gallery": [
+            "https://i.pinimg.com/564x/b1/cf/2e/b1cf2ec8b3802fd42986319c3f3a3102.jpg",
+            "https://i.pinimg.com/564x/0a/3a/a6/0a3aa62906bb136d0da2d6bba447be33.jpg"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+.resultSearch {
+    background: #ffffffbb;
+    position: absolute;
+    border: 1px solid #e8ebf3;
+    z-index: 9999;
+    width: 310px;
+    opacity: 1;
+}
+.resultSearch p{
+    color: #525fa6;
+    margin-bottom: 0px;
+    padding: 4px 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.resultSearch p i{
+    font-size: 12px;
+    color: #525fa6;
+}
